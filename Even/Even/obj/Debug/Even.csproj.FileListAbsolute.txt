@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\c sharp\Even\Even\bin\Debug\Even.exe.config
+C:\Users\User\Desktop\c sharp\Even\Even\bin\Debug\Even.exe
+C:\Users\User\Desktop\c sharp\Even\Even\bin\Debug\Even.pdb
+C:\Users\User\Desktop\c sharp\Even\Even\obj\Debug\Even.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c sharp\Even\Even\obj\Debug\Even.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c sharp\Even\Even\obj\Debug\Even.exe
+C:\Users\User\Desktop\c sharp\Even\Even\obj\Debug\Even.pdb
